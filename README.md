@@ -1,4 +1,4 @@
-# CODES_OF_02
+# CODESOFT_02
 tasks = []
 
 while True:
